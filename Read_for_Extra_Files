@@ -1,3 +1,4 @@
+
 The code twitter_bot.py needs some other files with it to run
 ############################################
 File_name:credentials.py
@@ -17,14 +18,6 @@ Wit_token="***********************"
 ############################################
 The Speech2.py file generates an Audio file named: ouput.wav
 This file is later on pushed to the function of Wit.ai
-
-	 _   _ _____ 
-	| | | |_   _|
-	| | | | | |  
-	| |_| | | |  
-	 \___/  |_|  
-             
-
 
 
 
