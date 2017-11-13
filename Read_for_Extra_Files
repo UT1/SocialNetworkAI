@@ -1,0 +1,16 @@
+The code twitter_bot.py needs some other files with it to run
+############################################
+File_name:credentials.py
+Use: Contains Consumer_key, Consumer_secret,Access_token, Access_token_secret
+Format:
+Consumer_key="***********************"
+Consumer_secret="**********************"
+Access_token="**************"
+Access_token_secret="**********************"
+############################################
+File_name:people.txt
+Use: Contains usernames of the people whom we want to send the message to
+Format:
+@user1
+@user2
+############################################
