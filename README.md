@@ -3,9 +3,12 @@ Artificial Intelligence project that uses Speech to text interface to update sta
 
 Welcome,
 This is Project for making the work of daily social updates easier through Speech To Text Methodology.
-Suggestions are welcomed.	
-Follow UT1 for further conversations.
+Suggestions are appreciated.
+
 Read Groot for further Details.
+
+
+-UT
 
 
 
