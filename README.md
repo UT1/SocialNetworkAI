@@ -109,5 +109,15 @@ Read Groot for further Details.
 -UT
 
 you can just type it your family details name address and its general details of your family member approximate height and weight all the things OK then give me some time
+yeah yeah yeah you can take your own time it's an Excel format only just download the Excel you can type it you can save the Excel you can send it to the same email id ok sir
+you no need to just I just I will send you confirm yeah sure definitely ok I can leave the line you want to check it right now can you check right now yeah sure you forward the things OK it is in the previous format I got it its opening now
+once again Sariya now it's ok ok ok perfect so what I do means I will be sending the payment link to your email id you can proceed for the payment OK Google location and after the payment has been done
+within two working days my medical team will be calling and there will be reconfirm some medical related questions based upon your media medical related questions if they required any medical examination they will arrange for it otherwise without any medical examination also it will be process officer
+no issues ok and sorry to ask once again in your family members anyone having any disease any ongoing treatment is going on
 
+sir no no nothing so I will just two minutes you are gone you are going for the policy
+for the lifetime Supreme its a complete cashless policy so in this policy we have some permit
 
+exclusions in the sense what are disease I am going to say it won't be applicable for the lifelong means insured person HIV is won't be applicable and any treatment of alcoholism drug detection will be don't applicable any problem of obesity weight control program will not cover in this product and any treatment of fertilizer treatment
+child treatment will not be applicable in any outpatient treatment charges and mental and nervous conditions will not cover and any treatment of cosmetics related plastic surgery for the beauty glitter plastic surgery will not be applicable in case of any accidental fire accident that time doctor has been suggested for it you can go for it any treatment of sexual replacement and pregnancy and childbirth will not cover
+apart from this everything not covered in this product up to the same issue that you are taken Sir ok Sir sure sir and you will be will be sending the payment link sir ok ok thank you please no thank you
